@@ -1,3 +1,0 @@
-
-------------- Ideias para Futuros Projetos -----------
-	* Calculadora completa com interface.
