@@ -1,0 +1,3 @@
+
+------------- Ideias para futuros projetos -----------
+	* Calculadora.
