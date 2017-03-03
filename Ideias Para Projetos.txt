@@ -1,3 +1,4 @@
 
 ------------- Ideias para Futuros Projetos -----------
-	* Calculadora completa com interface grafica.
+	* Calculadora completa com interface grafica. (Chocolate)
+	*
