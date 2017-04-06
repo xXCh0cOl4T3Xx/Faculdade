@@ -1,4 +1,5 @@
 
 ------------- Ideias para Futuros Projetos -----------
 	* Calculadora completa com interface grafica. (Chocolate)
-	* Cabelo pra chocolate (mateus)
+	* Cabelo pra chocolate (mateus & Ana)
+	
